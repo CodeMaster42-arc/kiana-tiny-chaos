@@ -37,3 +37,32 @@
   .card .menu-hero{width:104px;height:104px}
   .home-logo{font-size:38px!important;margin-bottom:8px!important}
 }
+
+/* Portrait-first app shell: keep the 540 x 960 game undistorted and never
+   place marketing copy beside the playfield. */
+html,body{width:100%;height:100%;overflow:hidden;overscroll-behavior:none}
+body{display:grid;place-items:center;min-height:100svh;padding:0;background:#17383b}
+#game{
+  width:min(100vw,56.25svh);
+  height:min(100svh,177.7778vw);
+  max-width:none;
+  max-height:none;
+  aspect-ratio:9/16;
+  flex:none;
+}
+.desktop-note{display:none!important}
+@media(max-aspect-ratio:9/16){
+  #game{
+    width:100vw;
+    height:177.7778vw;
+    max-height:100svh;
+    aspect-ratio:9/16;
+  }
+}
+@media(min-aspect-ratio:9/16){
+  #game{
+    width:56.25svh;
+    height:100svh;
+    aspect-ratio:9/16;
+  }
+}
