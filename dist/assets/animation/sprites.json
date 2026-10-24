@@ -1,0 +1,45 @@
+{
+  "frameSize": [
+    384,
+    384
+  ],
+  "layout": "3 columns \u00d7 2 rows",
+  "pivot": [
+    0.5,
+    0.5
+  ],
+  "poses": [
+    "idle",
+    "blink",
+    "surprise",
+    "anticipation",
+    "airborne",
+    "celebration"
+  ],
+  "characters": {
+    "kiana": [
+      "assets/animation/kiana-0.png",
+      "assets/animation/kiana-1.png",
+      "assets/animation/kiana-2.png",
+      "assets/animation/kiana-3.png",
+      "assets/animation/kiana-4.png",
+      "assets/animation/kiana-5.png"
+    ],
+    "blue": [
+      "assets/animation/blue-0.png",
+      "assets/animation/blue-1.png",
+      "assets/animation/blue-2.png",
+      "assets/animation/blue-3.png",
+      "assets/animation/blue-4.png",
+      "assets/animation/blue-5.png"
+    ],
+    "yellow": [
+      "assets/animation/yellow-0.png",
+      "assets/animation/yellow-1.png",
+      "assets/animation/yellow-2.png",
+      "assets/animation/yellow-3.png",
+      "assets/animation/yellow-4.png",
+      "assets/animation/yellow-5.png"
+    ]
+  }
+}

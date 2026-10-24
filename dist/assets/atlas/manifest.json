@@ -1,0 +1,110 @@
+{
+  "motion": {
+    "columns": 4,
+    "rows": 4,
+    "frameSize": [
+      320,
+      320
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "files": [
+      "assets/atlas/motion-0.webp",
+      "assets/atlas/motion-1.webp",
+      "assets/atlas/motion-2.webp",
+      "assets/atlas/motion-3.webp",
+      "assets/atlas/motion-4.webp",
+      "assets/atlas/motion-5.webp",
+      "assets/atlas/motion-6.webp",
+      "assets/atlas/motion-7.webp",
+      "assets/atlas/motion-8.webp",
+      "assets/atlas/motion-9.webp",
+      "assets/atlas/motion-10.webp",
+      "assets/atlas/motion-11.webp",
+      "assets/atlas/motion-12.webp",
+      "assets/atlas/motion-13.webp",
+      "assets/atlas/motion-14.webp",
+      "assets/atlas/motion-15.webp"
+    ]
+  },
+  "face": {
+    "columns": 4,
+    "rows": 3,
+    "frameSize": [
+      320,
+      320
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "files": [
+      "assets/atlas/face-0.webp",
+      "assets/atlas/face-1.webp",
+      "assets/atlas/face-2.webp",
+      "assets/atlas/face-3.webp",
+      "assets/atlas/face-4.webp",
+      "assets/atlas/face-5.webp",
+      "assets/atlas/face-6.webp",
+      "assets/atlas/face-7.webp",
+      "assets/atlas/face-8.webp",
+      "assets/atlas/face-9.webp",
+      "assets/atlas/face-10.webp",
+      "assets/atlas/face-11.webp"
+    ]
+  },
+  "yellow": {
+    "columns": 4,
+    "rows": 3,
+    "frameSize": [
+      320,
+      320
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "files": [
+      "assets/atlas/yellow-0.webp",
+      "assets/atlas/yellow-1.webp",
+      "assets/atlas/yellow-2.webp",
+      "assets/atlas/yellow-3.webp",
+      "assets/atlas/yellow-4.webp",
+      "assets/atlas/yellow-5.webp",
+      "assets/atlas/yellow-6.webp",
+      "assets/atlas/yellow-7.webp",
+      "assets/atlas/yellow-8.webp",
+      "assets/atlas/yellow-9.webp",
+      "assets/atlas/yellow-10.webp",
+      "assets/atlas/yellow-11.webp"
+    ]
+  },
+  "blue": {
+    "columns": 4,
+    "rows": 3,
+    "frameSize": [
+      320,
+      320
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "files": [
+      "assets/atlas/blue-0.webp",
+      "assets/atlas/blue-1.webp",
+      "assets/atlas/blue-2.webp",
+      "assets/atlas/blue-3.webp",
+      "assets/atlas/blue-4.webp",
+      "assets/atlas/blue-5.webp",
+      "assets/atlas/blue-6.webp",
+      "assets/atlas/blue-7.webp",
+      "assets/atlas/blue-8.webp",
+      "assets/atlas/blue-9.webp",
+      "assets/atlas/blue-10.webp",
+      "assets/atlas/blue-11.webp"
+    ]
+  }
+}
